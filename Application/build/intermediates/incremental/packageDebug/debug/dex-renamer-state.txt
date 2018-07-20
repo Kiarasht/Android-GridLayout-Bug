@@ -1,0 +1,4 @@
+#Thu Jul 19 19:05:00 PDT 2018
+base.0=/Users/ktorkian/Desktop/RecyclerView-TalkBack/Application/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
