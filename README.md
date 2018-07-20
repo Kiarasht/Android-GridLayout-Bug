@@ -1,1 +1,1 @@
-<img src="Bug 1.gif" align="center" height="500" >
+<img src="Bug.gif" align="center" height="500" >
